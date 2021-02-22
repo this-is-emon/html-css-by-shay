@@ -62,4 +62,12 @@ table {
   border-spacing: 0;
 }
 
+.container {
+  margin: 0 auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 960px;
+}
+
+
 
