@@ -59,6 +59,11 @@ h1, h3, h4, h5, p {
   margin: 0;
 }
 
+.btn-alt {
+  border: 1px solid #dfe2e5;
+  padding: 10px 30px;
+}
+
 
 
 /* HTML5 display-role reset for older browsers */
