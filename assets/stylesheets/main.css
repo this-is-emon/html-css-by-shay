@@ -37,6 +37,17 @@ time, mark, audio, video {
           box-sizing: border-box;
 }
 
+/*
+  ========================================
+  Typography
+  ========================================
+*/
+
+h1, h3, h4, h5, p {
+  margin-bottom: 22px;
+}
+
+
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
